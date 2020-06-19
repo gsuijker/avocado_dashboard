@@ -1,0 +1,1 @@
+Avocado dashboard made with plotly and dash
