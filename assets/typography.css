@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #568203;
+}
+
+h3 {
+    width: fit-content;
+    vertical-align: middle;
+}

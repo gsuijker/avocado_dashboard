@@ -1,0 +1,18 @@
+.app-header {
+    text-align: center;
+    border-bottom: thin lightgrey solid;
+    border-top: thin lightgrey solid;
+}
+
+.double-graph {
+    column-count: 2;
+}
+
+.state-dropdown {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.dropdown {
+    display: flex;
+}
